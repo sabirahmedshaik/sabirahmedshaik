@@ -1,6 +1,6 @@
-[![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1690034956546/101c1694-7e87-458e-afd5-ab65c48c468e.gif)]
+![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1690034956546/101c1694-7e87-458e-afd5-ab65c48c468e.gif)
 <h1 align="center">Hey, Sabir Ahmed here 👋</h1>
-<h3 align="center">A seasoned Java Developer with industrial experience who can delve into crafting robust and scalable solutions using software technologies such as Java, Spring Boot etc, leveraging niche technologies such as JavaScript and Shell Scripting.</h3>
+<h3 align="center">A seasoned Java Developer with relevant industrial experience in Java Development who can delve into crafting robust and scalable solutions using software technologies such as Java, Spring Boot, Hibernate, RestFul API etc, leveraging technologies such as JavaScript and Shell Scripting.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--xBC6vrZl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/codePerfectPlus/codeperfectplus/master/assets/img/programmer.gif">
 
