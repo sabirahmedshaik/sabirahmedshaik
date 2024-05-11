@@ -1,6 +1,6 @@
 ![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1690034956546/101c1694-7e87-458e-afd5-ab65c48c468e.gif)
 <h1 align="center">👋 Hello, I am Sabir Ahmed Shaik</h1>
-With over 2.3 years of hands-on experience in Java development, I bring a wealth of knowledge and expertise to every project I undertake.
+<h6>With over 2.3 years of hands-on experience in Java development, I bring a wealth of knowledge and expertise to every project I undertake.</h6>
 <h5>Throughtout my career, I have designed and implemented robust and scalable Java solutions for a diverse range of industries including banking, financial services, insurance and technology.</h5>
 <h5>From crafting elegant algorithms to optimizing performance and scalability.I thrive on solving complex problems and delivering solutions that exceed expectations.</h5>
 <h5>My areas of expertise includes:</h5>
