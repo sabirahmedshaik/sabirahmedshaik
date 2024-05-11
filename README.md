@@ -1,6 +1,19 @@
 ![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1690034956546/101c1694-7e87-458e-afd5-ab65c48c468e.gif)
-<h1 align="center">Hey, Sabir Ahmed here 👋</h1>
-<h3 align="center">A seasoned Java Developer with relevant industrial experience in Java Development who can delve into crafting robust and scalable solutions using software technologies such as Java, Spring Boot, Hibernate, RestFul API etc, leveraging technologies such as JavaScript and Shell Scripting.</h3>
+<h1 align="center">👋 Hello, I am Sabir Ahmed Shaik</h1>
+<h5 align="center">With over 2.3 years of hands-on experience in Java development, I bring a wealth of knowledge and expertise to every project I undertake.</h5>
+<h5 align="center">Throughtout my career, I have designed and implemented robust and scalable Java solutions for a diverse range of industries including banking, financial services, insurance and technology.</h5>
+<h5 align="center">From crafting elegant algorithms to optimizing performance and scalability.I thrive on solving complex problems and delivering solutions that exceed expectations.</h5>
+<h5 align="center">My areas of expertise includes:</h5>
+<ul>
+  <li>Core and Advanced Java Concepts</li>
+  <li>Object-Oriented Design and Arcitecture</li>
+  <li>Multi-threading and Concurrency</li>
+  <li>Spring Framework and Spring Boot</li>
+  <li>Enterprise Integration Pattern</li>
+  <li>Microservices Architecture</li>
+</ul>
+<h5 align="center">I am passionate about continuous learning and staying up-to date with the latest trends and technologies in the Java ecosystem. I believe in sharing knowledge and contributing to the developer community through open-source projects, techical articles, and mentoring aspiring developers.</h5>
+<h5 align="center">Let's connect and collaborate on exciting Java projects that push the boundaries of innovation and excellence.</h5>
 
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--xBC6vrZl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/codePerfectPlus/codeperfectplus/master/assets/img/programmer.gif">
 
