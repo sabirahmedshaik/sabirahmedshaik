@@ -2,8 +2,8 @@
 <h1 align="center">👋 Hello, I am Sabir Ahmed Shaik</h1>
 With over 2.3 years of hands-on experience in Java development, I bring a wealth of knowledge and expertise to every project I undertake.<br><br>
 Throughtout my career, I have designed and implemented robust and scalable Java solutions for a diverse range of industries including banking, financial services, insurance and technology.<br><br>
-From crafting elegant algorithms to optimizing performance and scalability.I thrive on solving complex problems and delivering solutions that exceed expectations.<br>
-My areas of expertise includes:<br><br>
+From crafting elegant algorithms to optimizing performance and scalability.I thrive on solving complex problems and delivering solutions that exceed expectations.<br><br>
+My areas of expertise includes:<br>
 <ul>
   <li>Core and Advanced Java Concepts</li>
   <li>Object-Oriented Design and Arcitecture</li>
@@ -11,7 +11,7 @@ My areas of expertise includes:<br><br>
   <li>Spring Framework and Spring Boot</li>
   <li>Enterprise Integration Pattern</li>
   <li>Microservices Architecture</li>
-</ul> <brf><br>
+</ul> <brf>
 I am passionate about continuous learning and staying up-to date with the latest trends and technologies in the Java ecosystem. I believe in sharing knowledge and contributing to the developer community through open-source projects, techical articles, and mentoring aspiring developers.<br><br>
 Let's connect and collaborate on exciting Java projects that push the boundaries of innovation and excellence.<br><br>
 
